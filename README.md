@@ -1,6 +1,6 @@
 # PHP MYSQL Modular Student Registration System
 
-A student registration and management system for educational institutions.
+A student registration and management system for educational institutions. Also includes a portal system for students to add, remove the units/courses they are undertaking.
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
